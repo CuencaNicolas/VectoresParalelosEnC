@@ -4,8 +4,8 @@
 int main()
 {
     char nombre[50];
-    int notas[];
-    int notas[2];
+    int notasUno[];
+    int notasDos[];
     float promedio;
     printf("Sin vectores");
     return 0;
