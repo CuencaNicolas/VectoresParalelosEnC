@@ -1,0 +1,5 @@
+objetivo principal:ordenamiento de vectores pararelos, sin importar si los datos son harkoreados
+ 1-hacer el alta
+ 2-hacer la baja(poner todo en 0)
+ 3-modificar(todo menos el legajo)
+ 
